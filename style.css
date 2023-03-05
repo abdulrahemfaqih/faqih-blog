@@ -146,7 +146,7 @@ body {
 }
 
 /* responsive tampilan mobile */
-@media (max-width: 768px) {
+@media (max-width: 425px) {
   .about {
     width: 1005;
     max-width: 400px;
